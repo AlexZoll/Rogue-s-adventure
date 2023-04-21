@@ -1,0 +1,2 @@
+Type 'b' to open character bag
+Type 'c' to open character list

@@ -1,0 +1,5 @@
+It can be a dangerous fight! You need to equip yourself properly.
+!Type 'b' to open character bag, then choose Short sword and equip it
+Great! Now you can type 'c' to open character list and check equipment
+You can open bag and character list anytime, except battles
+You can always type 'h' for more info.

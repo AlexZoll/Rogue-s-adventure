@@ -1,0 +1,29 @@
+__________PROLOGUE__________
+Night... the full moon casts a pale light over the surroundings of the village cemetery.
+Without too much noise, you make your way among the gravestones and crosses, carefully peering and listening.
+The clang of metal and it seems someone's muttering is heard nearby.
+As you move carefully, you notice a slowly moving figure, dragging a large two-handed sword behind him.
+200
+In the moonlight, it is clearly visible that this is a skeleton that has risen from the grave.
+201
+Like a piece of cake, you think as you sheathe your sword.
+Although you understand that such open battles with the walking undead are very unsafe.
+203
+Looking around, not far away you notice a tall crypt, quite matching the description left to you by your employer.
+Approaching, you cautiously look inside.
+Once your eyes adjust to the darkness, you begin to look around.
+In the center, on a low table, you notice a heavy book, next to it lies a small dark orb. To the right in the corner you notice a small wooden chest.
+300
+When you touch the orb, suddenly you hear a terrifying cry from outside the crypt.
+You quickly take the orb and get outside.
+Under the pale moonlight you see a dark figure of necromancer...
+Necromancer: Aha-ha-ha! Foolish mortal! You think you can steal from Me?!
+Now you're gonna die, and shall rise as undead to serve me! ha-ha-ha…
+400
+With a heart-rending scream, the figure of the necromancer turns into black threads of mist that are rapidly reaching out to you.
+Frozen, you watch as they are swallowed up by the dark orb that fell to the ground in the heat of battle.
+Looking at the body of the Necromancer, you see only a black robe spread out on the ground. It looks like the orb has absorbed his essence.
+As you touch the orb, you notice that it has become freezing cold.
+In the distance, a crunch and clang of metal was heard, it seems that new skeletons are approaching.
+Without thinking twice you grab the orb, hide it in your backpack, and hastily leave such an inhospitable place…
+101
